@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#clickArea {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: purple;
+}
+
+.car {
+    width: 20px;
+    height: 20px;
+    background: tomato;
+}
